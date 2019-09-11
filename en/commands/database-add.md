@@ -17,6 +17,7 @@ Option | Details
 --host | The database host address
 --port | The database host port
 --driver | The database driver
+-- default | Set the database as the default one _(option without argument)
 
 ## Examples
 * Add a database to the settings.php
